@@ -32,7 +32,7 @@ cd movie-analysis-app
 ```bash
 pip install -r requirements.txt
 ```
-3. 
+3. Запустите streamlit:
 ```bash
 streamlit run app.py
 ```
