@@ -51,7 +51,6 @@ streamlit run app.py
 
 ## 👨‍💻 Автор
 
-Scotzz
 
     GitHub: @Scotzz
     tg: @sc0tzz
