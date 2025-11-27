@@ -19,7 +19,8 @@
 ## 🚀 Запуск приложения
 
 Приложение развернуто на Streamlit Cloud и доступно по ссылке:
-👉 **[https://your-username-movie-analysis-app.streamlit.app/](https://your-username-movie-analysis-app.streamlit.app/)**
+
+👉 **[https://scotzz-movie-analysis.streamlit.app/](https://scotzz-movie-analysis.streamlit.app/)**
 
 ## 🛠️ Локальный запуск
 
