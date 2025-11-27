@@ -116,7 +116,6 @@ streamlit run app.py
 
 👨‍💻 Author
 
-Scotzz
 
     GitHub: @Scotzz
 
