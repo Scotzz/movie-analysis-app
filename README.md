@@ -83,7 +83,8 @@ The dataset contains information about movies from 2025, including:
 ## 🚀 Live Application
 
 The application is deployed on Streamlit Cloud and available at:
-👉 **[https://your-username-movie-analysis-app.streamlit.app/](https://your-username-movie-analysis-app.streamlit.app/)**
+
+👉 **[https://scotzz-movie-analysis.streamlit.app/](https://scotzz-movie-analysis.streamlit.app/)**
 
 ## 🛠️ Local Installation
 
