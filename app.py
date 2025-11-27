@@ -373,7 +373,7 @@ if os.path.exists(file_path):
         {text['data_description']}
         
         {text['author']}
-        
+        Source: https://github.com/Scotzz/movie-analysis-app
         ---
         
         """)
