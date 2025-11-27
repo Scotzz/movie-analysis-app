@@ -59,6 +59,9 @@ Scotzz
 
 Этот проект распространяется под лицензией MIT. Подробнее см. в файле LICENSE.
 
+
+
+
 # 🎬 Movie Analyzer 2025
 # 🇺🇸 ENGLISH VERSION
 Interactive web application for analyzing and visualizing 2025 movie data.
