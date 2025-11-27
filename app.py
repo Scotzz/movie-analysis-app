@@ -373,10 +373,11 @@ if os.path.exists(file_path):
         {text['data_description']}
         
         {text['author']}
-        Source: https://github.com/Scotzz/movie-analysis-app
+
         ---
         
         """)
+        st.markdown("Source: https://github.com/Scotzz/movie-analysis-app")
         
 else:
     st.error(f"{text['file_not_found']} {file_path}")
