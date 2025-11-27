@@ -336,7 +336,7 @@ if os.path.exists(file_path):
         else:
             st.warning(text['no_data_tops'])
             
-    with tab4:
+        with tab4:
         st.header(text['about'])
         
         st.markdown(f"""
@@ -371,15 +371,14 @@ if os.path.exists(file_path):
         {text['data_source']}
         
         {text['data_description']}
-        )
         
-        st.markdown(f"""
+        {text['author']}
+        
         Source: https://github.com/Scotzz/movie-analysis-app
         ---
         """)
-        st.markdown(f"""
-        {text['author']}
-        """)
+        
 else:
     st.error(f"{text['file_not_found']} {file_path}")
     st.info(text['file_check'])
+
