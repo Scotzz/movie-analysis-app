@@ -25,7 +25,7 @@ The application is deployed on Streamlit Cloud and available at:
 
 1. Сlone the repository:
 ```bash
-git clone https://github.com/your-username/movie-analysis-app.git
+git clone https://github.com/Scotzz/movie-analysis-app
 cd movie-analysis-app
 ```
 2. Install dependencies:
